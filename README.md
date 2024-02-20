@@ -6,7 +6,7 @@ Embarking on my journey as a Back End Software Engineer, I have adeptly navigate
 However, my journey doesn't end here; I am consistently seeking opportunities for growth. 
 
 ### 🌱 I’m currently learning English and Data
-Beyond programming languages, I am also dedicated to refining my English language proficiency and diving into the fascinating realm of data science.
+Beyond programming languages, I am also dedicated to refining my English language proficiency.
 
 ### ⚡ Fun fact: 
 Amidst the lines of code, it's worth noting that I often find myself as the only woman in the team. Embracing this unique position, I strive to bring diverse perspectives to the table, contributing to a rich and dynamic team environment.
