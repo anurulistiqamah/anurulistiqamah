@@ -14,3 +14,4 @@ Amidst the lines of code, it's worth noting that I often find myself as the only
 ### 📫 How to reach me: 
 - **Instagram**: [@anurulistiqamah](https://www.instagram.com/anurulistiqamah/)
 - **LinkedIn**:  [anurulistiqamah](https://www.linkedin.com/in/anurulistiqamah/)
+- **Kattiss**: [anurulistiqamah](https://open.kattis.com/users/anurulistiqamah)
